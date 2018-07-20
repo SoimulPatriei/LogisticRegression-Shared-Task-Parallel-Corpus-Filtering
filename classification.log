@@ -1,0 +1,7 @@
+07-20 18:37 GetFeatures::generateTestFeatures INFO     Generate Test Features 
+07-20 18:37 GetFeatures::generateTestFeatures INFO     Test Features File in => Test/test-500.csv
+07-20 18:37 Classification::classify INFO     Empty file =>results-500.txt
+07-20 18:37 Classification::classify INFO     Classify in loop 100000 Items
+07-20 18:37 Classification::classify INFO     Index_1
+07-20 18:37 Classification::classify INFO     Write Results
+07-20 18:37 Classification::classify INFO     I am done

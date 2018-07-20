@@ -1,0 +1,18 @@
+#--------The Trained Model---------------------
+trainingFeatureFile	Training/manualTrainingSet.csv
+
+#A file containing the order of the features
+fOrder	Resources/featureOrder.txt
+
+#---------------The file to be classified---------------
+fileTest	Test/test-500.txt
+
+#--------The Test Feature File---------------------
+testFeatureFile	Test/test-500.csv
+
+#-----Regular expression file
+fileRe	Resources/regularExpressions.txt
+
+#-----File with the classification results
+fResults	results-500.txt
+

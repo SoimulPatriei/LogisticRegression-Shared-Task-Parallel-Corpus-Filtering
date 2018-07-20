@@ -1,0 +1,12 @@
+#Training File with Category
+fCategory	Training/manualTrainingSet.txt
+
+#Output File containing the trained model
+trainingFeatureFile	Training/manualTrainingSet.csv
+
+#A file containing regular expressions used to compute various features.
+fileRe	Resources/regularExpressions.txt
+
+#A file containing the order of the features
+fOrder	Resources/featureOrder.txt
+
