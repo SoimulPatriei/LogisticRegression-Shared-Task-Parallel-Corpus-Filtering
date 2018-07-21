@@ -44,7 +44,7 @@ def generateTrainingFile (pTrainingFile) :
 
 
 def main():
-    pTrainingFile="Parameters/p-Training.txt"
+    pTrainingFile="Parameters/p-Training-2000.txt"
     loggingFile="train.log"
     initLogger(loggingFile)
     generateTrainingFile (pTrainingFile)
